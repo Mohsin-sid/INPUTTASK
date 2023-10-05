@@ -1,0 +1,90 @@
+body{
+  background-color: rgb(61, 61, 206);
+}
+.main_head{
+    border: 1px solid black;
+    /* width: 70%; */
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.input_main{
+  background-color: rgb(5, 5, 179);
+  padding: 15px 0;
+}
+.input_tag{
+
+  /* border: 1px solid black; */
+  background-color: rgb(5, 5, 179);
+  width: 30%;
+  
+}
+table, td, th {
+    background-color: rgb(61, 61, 206);
+    color: white;
+    padding: 8px;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .globe{
+    color: white;
+    padding: 0 10px;
+  }
+  
+  td {
+    text-align: center;
+    
+    border: 1px solid black;
+    background-color: whitesmoke;
+    color: black;
+    padding: 30px;
+    margin: 5px;
+    border-radius: 10px;
+  }
+  li{
+    list-style: none;
+    padding: 5px;
+    
+  }
+  .prev{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 14px;
+  }
+  .next{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 14px;
+  }
+  .span_head{
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+  }
+  input{
+    padding: 10px;
+    margin: 5px;
+    width: 10%;
+    background-color: whitesmoke;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  .add{
+    background-color: rgb(5, 5, 179);
+    color: white;
+    padding: 8px 18px;
+    border-radius: 6px;
+    border: none;
+  }
+  .td_one{
+    width: 30%;
+    margin: 5px;
+  }
